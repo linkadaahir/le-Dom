@@ -1,0 +1,11 @@
+.total{
+    border: 1px solid #74c470;
+    background-color: aquamarine;
+    opacity: 2;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:20% 50% 20% 40%;
+    padding: 1%;
+}
